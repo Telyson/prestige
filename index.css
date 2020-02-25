@@ -1,0 +1,117 @@
+
+
+.nav-link {
+  color: purple;
+  font-weight: bold;
+}
+
+.active {
+  color: green;
+}
+
+.navbar {
+  padding: 0 5px 0 5px;
+}
+
+#title {
+  background-image: url(purple-3.jpg);
+  color: white;
+  /*position: absolute;*/
+}
+
+#title .main {
+  padding: 4% 10% 3%;
+}
+
+.card {
+  background: white;
+  color: purple;
+  text-align: center;
+  width: 80%;
+  padding: 3%;
+  margin-top: -20px;
+  margin-bottom: 30px;
+  /*position: relative;
+  z-index: 1;
+  top: 310px;*/
+}
+
+.serv {
+  margin: 5%;
+}
+
+.service {
+  color: purple;
+}
+
+.service-line {
+  width: 75px;
+  height: 5px;
+  background: purple;
+  margin-left: 46%;
+}
+
+.find-out {
+  margin: 2%;
+}
+
+.icon {
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.chose {
+  margin-bottom: 3%;
+}
+
+.choose-line {
+  width: 75px;
+  height: 5px;
+  background: white;
+  margin-left: 46%;
+}
+
+.choose-us {
+  text-align: center;
+  padding: 5% 12%;
+  color: white;
+  background-image: url(purple-3.jpg);
+}
+
+.free {
+  width: 80%;
+  padding: 3% 7% 3%;
+}
+
+.semi-f {
+  color: white;
+  display: flex;
+  margin: 40px;
+}
+
+.semi-f-icon {
+  margin-right: 2px;
+
+}
+
+.semi-footer {
+  text-align: center;
+  background: purple;
+  color: white;
+  padding: 2%;
+}
+
+.btn-footer {
+  margin-top: 1%;
+}
+
+footer {
+  background: black;
+  color: white;
+  text-align: center;
+  padding: 1%;
+}
